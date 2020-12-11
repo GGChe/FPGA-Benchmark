@@ -1,0 +1,8 @@
+{C:/Users/gabri/Documents/Projects/FPGA-Benchmark/Basis and Theory/Test_Verilog/add4.v} {1 {vlog -work work -stats=none {C:/Users/gabri/Documents/Projects/FPGA-Benchmark/Basis and Theory/Test_Verilog/add4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add4
+
+Top level modules:
+	add4
+
+} {} {}}
