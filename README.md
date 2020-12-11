@@ -1,2 +1,4 @@
 # FPGA-Benchmark
-A benchmark with notes and examples of FPGA 
+In this repository you can find example files for learning VHDL as well as important bibliography and notes for getting started. 
+
+
